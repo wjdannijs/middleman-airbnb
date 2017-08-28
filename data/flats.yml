@@ -1,0 +1,35 @@
+ssaunier:
+  name: "Sebastien's home"
+  description: "Charming room in Montmartre"
+  city_name: "Paris, France"
+  city_slug: "paris"
+  wifi: false
+  rating: 4
+papillard:
+  name: "Boris' home"
+  description: Small flat in Tokyo
+  city_name: "Paris, France"
+  city_slug: "tokyo"
+  wifi: true
+  rating: 3
+monsieurpaillard:
+  name: Romain's home
+  description: Nice flat in Piccadilly
+  city_name: "London, UK"
+  city_slug: "london"
+  wifi: true
+  rating: 5
+wjdannijs:
+  name: Dubs' flat
+  description: The Dub's place to be
+  city_name: "Amsterdam, NL"
+  city_slug: "amsterdam"
+  wifi: true
+  rating: 5
+ericrouach:
+  name: Eric's flat
+  description: Enjoy one of the smallest countries in the world
+  city_name: "Luxembourg, LX"
+  city_slug: "luxembourg"
+  wifi: true
+  rating: 5
